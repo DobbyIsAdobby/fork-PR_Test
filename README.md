@@ -116,3 +116,13 @@ just a test
 **출처:**  
 한국언론진흥재단 [「2024 소셜미디어 이용자 조사」](https://www.kpf.or.kr/front/board/boardContentsView.do?board_id=246&contents_id=940a3bc4be914ac2a065b8922021728e)
 (조사 시기: 2024년, 전국 성인 남녀 대상)
+
+## 이용률
+* sns [KBS 기사](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8169138)
+| 순위 | 매체 | 이용률 |
+|---|---|---|
+| 1위 | 카카오톡 | 98.9% |
+| 2위 | 유튜브 | 84.9% |
+| 3위 | 인스타그램 | 38.6% |
+| 4위 | 밴드 | 28.6% |
+| 5위 | 네이버 블로그 | 21.7% |
